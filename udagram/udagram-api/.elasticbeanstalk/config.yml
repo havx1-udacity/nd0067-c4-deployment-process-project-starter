@@ -1,8 +1,8 @@
 branch-defaults:
   default:
-    environment: udagram-api-deploy-dev
+    environment: Udacityapi-env
 global:
-  application_name: udagram-api-deploy
+  application_name: udacity-api
   branch: null
   default_ec2_keyname: null
   default_platform: Node.js 14 running on 64bit Amazon Linux 2
