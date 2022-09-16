@@ -8,4 +8,4 @@ export AWS_BUCKET=arn:aws:s3:::elasticbeanstalk-us-west-2-750310889403
 export AWS_REGION=us-east-1
 export AWS_PROFILE=default
 export JWT_SECRET=mysecretstring
-export URL=https://elasticbeanstalk-us-west-2-750310889403.s3.us-west-2.amazonaws.com
+export URL=https://udacityapi-env.eba-zkqhwpe9.us-east-1.elasticbeanstalk.com/
