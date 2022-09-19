@@ -8,4 +8,4 @@ export AWS_BUCKET=arn:aws:s3:::havx-udacity-s3
 export AWS_REGION=us-east-1
 export AWS_PROFILE=default
 export JWT_SECRET=havx111
-export URL=http://havx-udacity-s3.s3-website-us-east-1.amazonaws.com
+export URL=http://havxudacity-env.us-east-1.elasticbeanstalk.com
